@@ -20,20 +20,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my_quotes.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/my_quotes.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="38" selection-start-column="38" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="humor.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="humor.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/humor.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -46,15 +37,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/happiness.txt" />
         <option value="$PROJECT_DIR$/humor.txt" />
         <option value="$PROJECT_DIR$/my_quotes.txt" />
+        <option value="$PROJECT_DIR$/happiness.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="120" />
-    <option name="y" value="109" />
+    <option name="x" value="595" />
+    <option name="y" value="27" />
     <option name="width" value="793" />
     <option name="height" value="1021" />
   </component>
@@ -70,6 +61,11 @@
             <path>
               <item name="MyQouteBook" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyQouteBook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyQouteBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyQouteBook" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,7 +148,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="120" y="109" width="793" height="1021" extended-state="0" />
+    <frame x="595" y="27" width="793" height="1021" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -197,10 +193,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/humor.txt">
+    <entry file="file://$PROJECT_DIR$/my_quotes.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -211,10 +207,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_quotes.txt">
+    <entry file="file://$PROJECT_DIR$/humor.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
